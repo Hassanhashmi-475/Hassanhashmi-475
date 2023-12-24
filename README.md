@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Large Scale E-Commerce Distribution Project<br><br>🌱 I’m currently learning Generative AI<br><br>🤝 I’m looking for help with everything<br><br>💬 Ask me about Backend engineering,Javascript,python<br><br>📫 How to reach me hassan.uet475@gmail.com<br><br>⚡ Fun fact When I'm not immersed in coding and technology, you can find me exploring the great outdoors. One of my favorite adventures was hiking the picturesque Margala Hills, where I got to connect with nature and enjoy breathtaking views. 🏞️
+🔭 I’m currently working on Large Scale E-Commerce Distribution Project<br><br>🌱 Learning Generative AI and Cloud computing<br><br>🤝 I’m looking for help with everything<br><br>💬 Ask me about Backend engineering,Javascript,python<br><br>📫 How to reach me hassan.uet475@gmail.com<br><br>⚡ Fun fact When I'm not immersed in coding and technology, you can find me exploring the great outdoors. One of my favorite adventures was hiking the picturesque Margala Hills, where I got to connect with nature and enjoy breathtaking views. 🏞️
 
 
 # 💻 Tech Stack:
@@ -7,7 +7,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hassanhashmi-475&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hassanhashmi-475&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
 
 
 
